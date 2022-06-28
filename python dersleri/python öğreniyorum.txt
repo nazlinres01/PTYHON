@@ -1,0 +1,49 @@
+programlama dili->derleyici->makine dili
+powershell 
+python --version
+quit() veya ctrl+z//python modundan çýkýþ
+python 3.8.2
+print("merhaba nazli")//ekrana yazdýrma 
+editör : visual studio , phcarm , notpadd++...  
+integer, tam sayýlar float, ondalýklý sayýlar 
+disable-> devre dýþý
+>>>type(2)
+<class 'int'>//tür veriliyor
+** üs alma
+% mod alma kalan verilir
+10//3=3 tam kýsmý verilir*
+from turtle import*  python turtle graphics
+forward(sayi) ilere gitme iþlemi
+left() veya right() açý ayarlama
+done() veya mainloop ile bitirilir
+shape("turtle")=>kaplumbaða þekli ortaya çýkar
+goto(sayi1,sayi2) koordinatta verebiliriz
+penup() kalemi kaldýr
+pendown() kalemi indir
+
+Bu ödev ile ilgili sorular
+Python ile hangi aritmetik iþlemleri yapabiliriz?
+
+Modülleri hangi anahtar sözcük ile içeri aktarýrýz?
+
+Temel veri tiplerinden 3 tanesi hangileridir?
+
+Deðiþken isimlerinde noktalama iþaretleri kullanýlabilir mi?
+
+Anahtar sözcükler deðiþken adý olarak kullanýlabilir mi?
+
+NEREDE HATA VAR?
+
+a.b=5
+
+NEREDE HATA VAR?
+
+12=x
+
+NEREDE HATA VAR?
+
+x/y=12
+
+NEREDE HATA VAR?
+
+3abc=27
